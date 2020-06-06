@@ -5,3 +5,4 @@ tareas se tiene que ir viendo en una lista. Al pulsar sobre
 ellas se tiene que eliminar.
 Esta es mi solución, no es copiada de la solución original
 
+<img src="Captura.png">
